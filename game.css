@@ -12,9 +12,17 @@ body
 		width: 500px;
 		
 	}
+#player1_score, #player2_score{
+	font-size: 20px;
+}
+
+#question_player, #answer_player{
+	display: inline-block;
+	font-size: 20px;
+}
 
 
-#player1_name , #player2_name
+#Player1 , #Player2
 {
 	display: inline-block;
 	margin-left: 20px;
